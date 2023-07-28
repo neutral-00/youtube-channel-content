@@ -1,0 +1,84 @@
+
+## Tutorial Duration Breakdown
+<section>
+- [] ideal duration 10 mins 
+	- Welcome Note & short intro > 00:01:00 
+	- Problem Statement & Tinkering > 00:01:30  
+	- Problem Solving > 00:03:00
+	- break > 00:01:00
+	- Solve Remaining problem > 00:02:00
+	- Revision>00:01:00
+	- Recap and reference links> 00:30:00
+</section>
+
+## Checklist
+<section>
+- [] The content is structured into
+	- [Welcome Note](#)
+	- Short intro on what is there in the video
+	- Tutorial Content 1 - Start with a problem statement
+	- Give a problem statement or Give a task 
+		- Give some time to think about
+	- Solve or complete the task together
+	- Break time: Propaganda on Neutrals OR about the channel
+	- Tutorial Content 2 
+	- Revision - with ppt
+- [] The intro is not tool long
+- [] The learning objective is clear 
+- [] The quality of the tutorial content is upto the standard
+- [] The pace of the speech is natural and clear
+- [] No stammer/stuttur/difficulty with the choice of words | in another words, be extremely well prepared
+- [] No heavy breathing sound or background noice
+</section>
+
+## Teaching / Learning  Guidelines
+<section>
+
+Remember the following while teaching
+- Abstraction to lessen distraction
+- Spaced learning
+- Repeatative and revision
+- Problem first approach
+- Invoke thinking and analysis
+- Assement and rewards	
+</section>
+	
+## Welcome note
+<section>
+- Namaste internet! welcome to my channel(NeutralsLearningCenter) 
+- Today I bring you a tutorial on : {tutorial name}
+</section>
+
+## What is in the video?
+<section>
+
+- In this tutorial we will learn about ....
+</section>
+
+## Tutorial Content - I ( problem statement )
+<section>
+- So lets dive in.
+- Suppose we have a {problem...}
+- Think about it, what would you do?
+</section>
+
+## Break
+<section>
+- Ok now time for a break, let me talk about Neutrals.
+- Today, I want to discuss a value called {}
+</section>
+
+## Tutorial Content - II
+<section>
+- Now, let's get back to the tutorial.
+- We are left with {}
+</section>
+
+## Summary
+<section>
+- Finally we have come to the end of the tutorial.
+- Let's recap:
+- We learned {}
+- Here is the Github and Google Classroom links.
+- Until we meet again, keep learning, keep improvising, keep nurturing the goodness. Namaste!
+</section>
