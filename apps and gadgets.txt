@@ -1,0 +1,9 @@
+## dynamic mic
+https://www.amazon.in/MAONO-Microphone-Recording-Voice-Over-Control-PD200X/dp/B0BZPDH6GM?_encoding=UTF8&pd_rd_w=zIRJG&content-id=amzn1.sym.28f4ad8b-a8a7-4dee-970f-fd3797409ec5&pf_rd_p=28f4ad8b-a8a7-4dee-970f-fd3797409ec5&pf_rd_r=NDPADB9CY449VV1S5J75&pd_rd_wg=MQLPO&pd_rd_r=1ac1c94e-c81e-4219-a2a6-d53bde75f274&linkCode=sl1&tag=indianedmer-21&linkId=e1d293a361579972ec6d46815de7dbdd&language=en_IN&ref_=as_li_ss_tl
+
+
+## voice changer
+https://clownfish-translator.com/voicechanger/
+
+## issues
+- fix for clownfish not working in windows: https://youtu.be/m-JsztV6S3Y
