@@ -1,0 +1,13 @@
+
+## research on how to create an ebook
+> canva tutorials : check shruti rajput's youtube channel:  
+
+
+
+## Mini project - Create a professional ebook titled: Install Ubuntu In Windows Using Virtial Box
+- [x] create it
+- [x] publish it
+- [] post it on social media #slack/twitter
+
+
+
